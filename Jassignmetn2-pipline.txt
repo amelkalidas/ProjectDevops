@@ -1,0 +1,5 @@
+Jenkin Assignment 2 is completed !
+
+Learned how to create an pipeline where it auto triggers using webhook .
+The pipeline is configured to auto pull the data from testbranch into the testserver ( node ) 
+this data will be within the directory mentioned /jagent/worksapce/<thepipelinnname>
