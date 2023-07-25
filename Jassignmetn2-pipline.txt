@@ -1,7 +1,4 @@
-
-
-##############################3###
-Testing2
+Pushing to Testnode!
 Jenkin Assignment 2 is completed !
 
 Learned how to create an pipeline where it auto triggers using webhook .
